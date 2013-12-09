@@ -1,10 +1,10 @@
 #player,#player a{ font-size: 10px; font-family:kristen ITC;color:#ffffff; }
-#player{ background:url(http://img6.imageshack.us/img6/7067/c0h2.png); background-position:bottom; }
-#player .mainImage{ background:url(http://img21.imageshack.us/img21/9369/5ep8.png); }
+#player{ background:url(http://static.tumblr.com/thngg2e/ksMminvvv/scmp_skin3.png); background-position:bottom; }
+#player .mainImage{ background:url(http://static.tumblr.com/thngg2e/OaBminvtb/scmp_skin.png); }
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(http://img24.imageshack.us/img24/8729/nelk.png); }
+#player #play{ background:url(http://static.tumblr.com/thngg2e/hVUminvul/scmp_skin1.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -17,10 +17,10 @@
 #player #seekerBuffered{ background-color:#ffffff; }
 #player #seekerSliderBase{ background-color:#ccc; }
 #player #volume{ width:65px; right:39px; }
-#player #volumeSlider{ width:8px; background:url(http://img534.imageshack.us/img534/558/8x9v.png); }
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/thngg2e/ksMminvvv/scmp_skin3.png); }
 #playlist,#playlist .module,#playlist h3{ border-color:#000000;}
 #playlist .module{  color:#ffffff; background-color:#000000; }
-#playlist h3{ background:url(http://img577.imageshack.us/img577/4944/2rj5.png); color:#fff; background-color:#333;  }
+#playlist h3{ background:url(http://static.tumblr.com/thngg2e/NWSminvxm/scmp_skin4.png); color:#fff; background-color:#333;  }
 #playlist .even{background-color:#000000;}
 #playlist .odd{ background-color:#00000;}
 #playlist .focus{ background-color:#ffffff; color:#000000;}
